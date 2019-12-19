@@ -1,5 +1,5 @@
 //DRY code, shoutout to Venkat Subramaniam
-let start = document.querySelector('#brand');
+let start = document.querySelector('.brand');
 let ex = 10;
 function swing(element) {
 
