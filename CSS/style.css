@@ -1,6 +1,7 @@
 html{
   height:100%
 }
+/* body of the first 7 html game scenarios */
 body{
   height:100%;
   background: url(https://78.media.tumblr.com/ab5d1b5e315a2eca8f7ceecbac7fd622/tumblr_oz2jfje5Jn1u6t6uao1_1280.jpg) center center no-repeat;
@@ -12,10 +13,12 @@ body{
   margin:0;
   overflow:hidden
 }
+/* this is the brand off the first 7 game scenarios */
 .brand{  
   text-align:center;
   cursor:pointer;
 }
+/* this is the  image off the brand off the first 7 game scenarios */
 .brand img{
   display:block;
   width:80vw;
@@ -23,6 +26,7 @@ body{
   height:auto;
   transition:0.2s
 }
+/* this is the allign off the brand off the first 7 game scenarios */
 .brand a{
   display:block;
   font-family: 'Passion One';
@@ -61,6 +65,7 @@ body{
   
   border-radius: 10px;
 }
+/* this is the css off the person in the css */
 .person {
   width: 196px;
   height: 196px;
@@ -80,6 +85,7 @@ body{
   z-index: 1;
   overflow: hidden;
 }
+/* the css of the character finn */
 #finn .body:before {
   content: "";
   position: absolute;
